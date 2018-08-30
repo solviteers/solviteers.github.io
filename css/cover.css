@@ -105,3 +105,9 @@ body {
 .mastfoot {
   color: rgba(255, 255, 255, .7);
 }
+
+.card {
+    color: #000;
+    text-shadow: none;
+    box-shadow: 0 0 5rem rgba(0, 0, 0, .5);
+}
